@@ -1,5 +1,5 @@
 # Program-C-Plus
 
--- Program C++
---
--- Dibuat Oleh: Damar Djati Wahyu Kemala
+Berisikan Program C++
+
+Dibuat Oleh: Damar Djati Wahyu Kemala
