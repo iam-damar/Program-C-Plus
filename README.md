@@ -2,4 +2,4 @@
 
 Berisikan Program C++
 
-Dibuat Oleh: Damar Djati Wahyu Kemala
+Dibuat Oleh: Damar Djati Wahyu Kemala.
